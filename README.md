@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/OlgaBorodchak/QR-Card.git](https://your-solution-url.com)
-- Live Site URL: [ https://olgaborodchak.github.io/QR-Card/](https://your-live-site-url.com)
+- Live Site URL: [https://olgaborodchak.github.io/QR-Card/](https://your-live-site-url.com)
 
 ### Built with
 
