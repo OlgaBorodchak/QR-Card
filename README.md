@@ -2,7 +2,7 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help me improve my coding skills by building realistic projects. 
 
-![file:///C:/Users/OLGA/Downloads/_C__Users_OLGA_Documents_web%2520development_qr-code-component-main_index.html.png](./screenshot.jpg)
+[![C-Users-OLGA-Documents-web-development-qr-code-component-main-index-html.png](https://i.postimg.cc/pTXzCzNP/C-Users-OLGA-Documents-web-development-qr-code-component-main-index-html.png)](https://postimg.cc/cK2v4K4z)
 
 ### Links
 
